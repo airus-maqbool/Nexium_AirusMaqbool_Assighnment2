@@ -15,7 +15,7 @@ export async function POST(req: Request) {
     
     if (!isTargetBlog(url)) {
       return NextResponse.json(
-        { error: "Only the specified blog URL is supported" },
+        {error: "Cannot find this url" },
         { status: 400 }
       );
     }
