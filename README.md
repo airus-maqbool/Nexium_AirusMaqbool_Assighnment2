@@ -6,7 +6,7 @@ A simple blog summariser built using **Next.js 14**.
 [Vercel Deployment](https://nexium-airus-maqbool-assighnment2-m0zxmkaaf.vercel.app)
 
 ### 🎥 Demo Video  
-[Watch on Google Drive](https://drive.google.com/file/d/1BN1rEFerF17cytRpI_ftu0kofS3K1TkZ/view?usp=drive_link)
+[Watch on Google Drive](https://drive.google.com/file/d/1jupneC1bmea7eZhnd517JuWZZ7y4LQ8f/view?usp=drive_link)
 
 ---
 
