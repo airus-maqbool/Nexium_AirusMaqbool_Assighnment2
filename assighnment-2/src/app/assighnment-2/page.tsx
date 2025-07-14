@@ -15,7 +15,7 @@ export default function Assignment2Page() {
     setSummary(""); // Clear previous summary
 
     try {
-      const response = await fetch('/assignment-2', {
+      const response = await fetch('/assighnment-2/api', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ url })
